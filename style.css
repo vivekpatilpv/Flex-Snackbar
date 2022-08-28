@@ -1,0 +1,32 @@
+ /* MAIN SECTION STARTS */
+
+
+ /* SNACK SECTION STARTS */
+#snackbar{
+  margin-left: 380px;
+  width: 730px;
+  margin-top: 250px;
+  margin-right: 0px;
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    border-radius: 2px;
+    padding: 16px;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+    position: fixed;
+  border-radius: 1.5rem;
+}
+
+span{
+    padding: 0 4rem;
+}
+/* SNACK SECTION ENDS  */
+
+
+
+/* MAIN SECTION ENDS  */
